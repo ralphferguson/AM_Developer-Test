@@ -1,9 +1,9 @@
 # Aller Media Sverige -- Developer test #
 
-The live version of the application can be viewed at: http://ralphblackferguson.com/programs/wordpress/ 
+The live version of the application can be viewed at: http://ralphblackferguson.com/programs/wordpress/
 
 ### File and Folder Structure ###
-The two parts of the assignment — the API and the widget — are oganised into two folder; "article-api", and "wordpress-api-widget" respectively.
+The two parts of the assignment — the API and the widget — are oganised into two folder; "article-api", and "wordpress-api-widget" respectively. The third folder, "wordpress-api-plugin", is a Plugin that was developed during the process of creating the other two solutions, and is called using a shortcode, rather than with a Widget.
 
 Each part contains its own README file.
 
