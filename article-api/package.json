@@ -1,0 +1,23 @@
+{
+  "name": "api-to-heroku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ralphferguson/api-to-heroku.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ralphferguson/api-to-heroku/issues"
+  },
+  "homepage": "https://github.com/ralphferguson/api-to-heroku#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
